@@ -11,4 +11,5 @@ jupyter notebook
 2. Install necessary packages if missing such as ipywidgets, plotly, etc, using pip or whichever package manager is appropriate
 
 3. Run 'Restart and Run all' under Kernel option
+4. Run all required Docker containers if using local server URL.
 
